@@ -1,10 +1,7 @@
-# team-34
-<h1 align="center">START UP HUB</h1>
-<p align="center">
-</p>
+# Startup Hub
 
 ## Introduction:
-An easy and user-friendly web application that allows the admin of GUSEC to see all the startup applications along with their necessary information.
+An easy and user-friendly web application that allows the admin to see all the startup applications along with their necessary information.
 A startup can sign up on the website and fill all the necessary details to apply for the no-cost incubation program.
 Instead of storing through a excel file, the startup’s data would now be stored on the application database and without going through the entire excel sheet admin can now view applicants and verify the request of the startups 
 
@@ -16,20 +13,7 @@ Instead of storing through a excel file, the startup’s data would now be store
   4) JavaScript
   
 
-## Contributors:
-
-* [Vriddhi Darak](https://github.com/vriddhid)
-* [Arushi Yadav](https://github.com/arushi2203)
-* [Thorrivemula Chaithanya Pavan](https://github.com/Chaithanyapavan)
-* [Gaurav Jain](https://github.com/Gauarv-Jain)
-* [Nishtha Pandey](https://github.com/np2802)
-* [Vaibhavi Sakhuja](https://github.com/vsakhuja)
-* [Jagjit Singh](https://github.com/jagjit-1)
-* [Naman Kothari](https://github.com/NamanKothari5)
-
-
-## Screenshots
-
+## Screenshots![ezgif com-gif-maker](https://user-images.githubusercontent.com/96607227/175799275-3e4a94b9-42ca-4959-b19f-3e0bc3a51222.gif)
 
 
 
