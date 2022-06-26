@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color:rgb(73, 43, 149); 
+}
+
+.form-container{
+    align-items: center;
+    width: 100%;
+    /* margin: auto; */
+
+    background-color: rgb(199, 176, 255);
+    margin-top: 10vh;
+    margin-bottom: 4vh;
+    padding: 5vw;
+    border-radius: 4%;
+}
+
+.form{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 50px;
+    padding: 5vw;
+}
+
+.space {
+    width: 35px;
+    height: auto;
+    display: inline-block;
+}
