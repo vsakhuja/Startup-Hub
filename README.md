@@ -17,10 +17,3 @@ Instead of storing through a excel file, the startup’s data would now be store
 
 
 
-## How to run
-
-1. Go to server and client individually in terminal
-2. Run npm install
-3. run npm start in server
-4. run npm start in client
-5. voila, you are ready to go
